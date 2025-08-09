@@ -1,2 +1,1 @@
-# TrainingPlatform
-Professional TrainingPlatform infrastructure with TrainingPlatform-optimized trainingplatform-optimization and enterprise scalable-architecture capabilities
+.
